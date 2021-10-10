@@ -1,1 +1,1 @@
-# console-tic-tac-toe
+# unwinnable tic tac toe in console
